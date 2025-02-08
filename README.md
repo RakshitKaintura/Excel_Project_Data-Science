@@ -14,3 +14,5 @@ As a Job Seeker , I've always been surprised by the lack  of data exploring the 
 ![2_Project_Analysis_Chart1](https://github.com/user-attachments/assets/6480db6e-0838-41b1-b2e2-4ac1477d110c)
 
 ![2_Project_Analysis_Chart3](https://github.com/user-attachments/assets/b9ce040c-81b3-4d56-a505-2a31958aa1ed)
+
+![2_Project_Analysis_Chart4](https://github.com/user-attachments/assets/54407756-0dd2-4adc-bb9a-13fe7886f020)
