@@ -1,57 +1,6 @@
 # Excel_Project_Data-Science
 
-## Table of Contents
+## Salary DashBoard
+This data jobs salary dashboard was created to help job seekers investigate salaries for their desired jobs and ensure they are being adequately compensated.  
+[Checkout the dashboard here](Project 1-Dashboard)
 
-
-### [Chapter 1: Spreadsheets_Intro](/1_Spreadsheets_Intro/)
-- Worksheets
-- Workbooks
-- Ribbon
-- Menu
-- Keyboard Shortcuts
-### [Chapter 2: Formulas & Functions](/2_Formulas_Functions/)
-- Formulas
-- Functions
-- Logical Functions
-- Text Functions
-- Date Functions
-- Lookup Functions
-- Math Functions
-- Statistical Functions
-### [Chapter 3: Charts](/3_Charts_Graphs/)
-- Chart Types
-- Chart Elements
-- Chart Styles
-- Chart Axes
-- Chart Layouts
-- Chart Templates
-### [Chapter 4: Spreadsheets Advanced](/4_Spreadsheets_Advanced/)
-- Tables
-- Conditional Formatting
-- Formatting
-- Collaboration
-### [Chapter 5: Pivot Tables](/5_Pivot_Tables/)
-- Pivot Tables
-- Pivot Charts
-- Pivot Tables Advanced
-### [Chapter 6: Advanced Data Analysis](/6_Advanced_Data_Analysis/)
-- Analysis Add-ins
-- Solver
-- Scenario Manager
-- Goal Seek
-- Data Tables
-### [Chapter 7: Power Query](/7_Power_Query/)
-- Power Query
-- Power Query Editor
-- Power Query M Language
-- Power Query Advanced
-### [Chapter 8: Power Pivot](/8_Power_Pivot/)
-- Power Pivot
-- Power Pivot DAX
-- Power Pivot Data Models
-
-## Found a Typo? Want to Contribute?
-- If you find an error in this repo, please feel free to make a pull request by:
-    - Forking the repo
-    - Making any changes
-    - Submitting a pull request
